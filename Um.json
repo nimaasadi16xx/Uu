@@ -1,1 +1,13 @@
-blablabla
+[
+  {
+    "key": "PUBLIC123",
+    "type": "public",
+    "expirydate": "2027-12-31 23:59:00"
+  },
+  {
+    "key": "PRIVATE123",
+    "type": "private",
+    "device_id": "ed336ccb315a2994",
+    "expirydate": "2027-12-31 14:30:00"
+  }
+]
